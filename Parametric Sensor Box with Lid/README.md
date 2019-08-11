@@ -1,9 +1,14 @@
 # Parametric Sensor Box with Lid
 
-Parametric sensor box supports:
+Parametric sensor box details:
  * **Entire box and lid** are generated using *your* specs.
  * PCB slides into a 0.5mm overhang. 
- * That combined with two hinge pins or "snap posts" for the mount holes on the opposite (top) side of the PCB hold it so securely that a lid is not needed. 
+   
+   You *do* need that much clearance on one edge of the board. I.e., with no components.
+   
+   For conceptual purposes, only, this overhang is considered the "bottom" of the box when working with sketches.
+   
+ * That combined with two hinge pins or "snap posts" for the mount holes on the opposite (top) side of the PCB hold it so securely that you don't even have to use the lid.
    
    (In fact, you must turn upside-down and "whack it on a hard surface", or use a tool to remove it!)
    
